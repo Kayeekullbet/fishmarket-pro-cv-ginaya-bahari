@@ -1,0 +1,10 @@
+﻿storage/fishmarket.sqlite
+storage/*.sqlite
+.env
+.vercel
+node_modules
+
+vendor
+.DS_Store
+Thumbs.db
+!storage/.gitkeep
